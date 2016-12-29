@@ -40,7 +40,7 @@ if exist "C:\Program Files (x86)\Vim\_vimrc" (
 	ECHO Making a backup of existing vimrc file
 	ECHO "C:\Program Files (x86)\Vim\_vimrc"
 	ECHO at backup location
-	ECHO "C:\Program Files (x86)\Vim\_vimrc" "C:\Program Files (x86)\Vim\BACKUP_vimrc"
+	ECHO "C:\Program Files (x86)\Vim\BACKUP_vimrc"
 	ECHO f | xcopy /v/h/k "C:\Program Files (x86)\Vim\_vimrc" "C:\Program Files (x86)\Vim\BACKUP_vimrc"
 	)
 
