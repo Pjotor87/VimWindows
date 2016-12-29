@@ -22,7 +22,7 @@ Download the file "InstallPetersVimSettings.bat" manually and run it as admnistr
 
 #####Vim is not installed at the default location
 The install script will only work as is if you have installed Vim at the default location "C:\Program Files (x86)\Vim".
-
-If you have installed Vim in a different location:
+<br />
+######If you have installed Vim in a different location
 1. Download and perform a find and replace in the file "InstallPetersVimSettings.bat"
 2. Run it manually as administrator.
